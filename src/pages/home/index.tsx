@@ -58,8 +58,7 @@ export const Home = (): JSX.Element => {
               projects
             </Text>
             <Text type="body1" color="grey2">
-              Discover here in this environment, created especially for you, all
-              my projects and technologies
+              Como desenvolvedor web, tenho experiência em trabalhar com JavaScript ES6, CSS3 e HTML5, bem como na construção de projetos utilizando React e TypeScript. Além disso, tenho vivência com metodologias ágeis (SCRUM) e conhecimentos em controle de versionamento com GIT. Também sou familiarizado com o consumo de APIs e possuo habilidades intermediárias em inglês. Adicionalmente, tenho conhecimento em construção de APIs utilizando o framework Express.js, bem como em SQL e em bancos de dados relacionais, especialmente PostgreSQL.
             </Text>
             <HeaderButtonsArea>
               <Button as="a" type="primary" href="#projects">
